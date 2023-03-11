@@ -1,5 +1,5 @@
 package com.example.new_sample;
 
-public class SampleActivity2 {
+public class SampleActivitytwo {
     int roll;
 }
